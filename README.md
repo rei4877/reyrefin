@@ -1,12 +1,15 @@
-Hi! 👀
+# Hi! 👀
 
-I'm Rey Refin! I'm a digital artist dealing in multiple disciplines.
-I mainly focus on UI/UX and graphic design, character illustrations and music compositions!
+I'm Rey Refin! 👋
+I'm a digital artist dealing in multiple disciplines 💻
+I mainly focus on UI/UX and graphic design, character illustrations and music compositions! 👨‍🎨
 
-You can reach and find me here:
+My GitHub is just for me to post some small scripts and codes I've done in my free time, out of either boredom or annoyance.
+
+You can reach and find my works here:
 - Email: rey.refin <at> gmail.com
-- Bandcamp: https://reyrefin.bandcamp.com/ or https://mykono5.bandcamp.com/
-- No place to post my illustrations yet!
+- Bandcamp: https://reyrefin.bandcamp.com/ (for acoustic music) or https://mykono5.bandcamp.com/ (for electronic music)
+- No place to post my illustrations yet, unfortunately!
 
 <!---
 reyrefin/reyrefin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
