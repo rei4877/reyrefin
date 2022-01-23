@@ -1,7 +1,9 @@
 # Hi! 👀
 
 I'm Rey Refin! 👋
+
 I'm a digital artist dealing in multiple disciplines 💻
+
 I mainly focus on UI/UX and graphic design, character illustrations and music compositions! 👨‍🎨
 
 My GitHub is just for me to post some small scripts and codes I've done in my free time, out of either boredom or annoyance.
